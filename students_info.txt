@@ -1,6 +1,7 @@
 Enter your roll number and name in this file one by one.
 
-This is a class IF7002
+This is a class IF5002
+-----------------------
 
 Roll NO : 2019246046	
 Name : Vijaykanth
